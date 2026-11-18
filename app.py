@@ -220,7 +220,7 @@ else:
         <div class="panel" style="height:100%;display:flex;flex-direction:column;justify-content:center">
           <p class="eyebrow">A little something for you</p>
           <h2 style="color:#c24f7a">Flowers for your new chapter ♡</h2>
-          <p>Imagine this bouquet arriving with your favourite book and a handwritten birthday note. May your days be full of colour, kindness, and little moments that make you smile.</p>
+          <p>Distance does not matter at all!Imagine this bouquet arriving with your favourite book and a handwritten birthday note. May your days be full of colour, kindness, and little moments that make you smile.</p>
           <p style="color:#b64f78;font-family:'Cormorant Garamond',serif;font-size:1.35rem;font-style:italic">Some gifts are flowers. Some are words. This little page is both.</p>
         </div>
         """, unsafe_allow_html=True)
