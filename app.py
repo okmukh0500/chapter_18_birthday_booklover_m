@@ -213,7 +213,7 @@ else:
     st.write("")
     bouquet_col, note_col = st.columns([0.9, 1.1], gap="large")
     with bouquet_col:
-        st.image("assets/birthday_bouquet.jpg", use_container_width=True)
+        st.image("birthday_bouquet.jpg", use_container_width=True)
         st.caption("A little bouquet, just for you. 🌷")
     with note_col:
         st.markdown("""
